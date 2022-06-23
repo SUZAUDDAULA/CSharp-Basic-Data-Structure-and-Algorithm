@@ -13,9 +13,16 @@ namespace BasicDataStructures
         {
             StackTest1 stackTest1 = new StackTest1();
             StackTest2 stackTest2 = new StackTest2();
+            QueueTest1 queueTest1 = new QueueTest1();
+            QueueTest2 queueTest2 = new QueueTest2();
 
-            stackTest1.Run();
+            ////Stack Test
+            //stackTest1.Run();
             //stackTest2.Run();
+
+            //Queue Test
+            //queueTest1.Run();
+            queueTest2.Run();
            
             Console.ReadLine();
         }

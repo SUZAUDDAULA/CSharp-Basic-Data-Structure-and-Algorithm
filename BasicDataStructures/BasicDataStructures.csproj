@@ -46,6 +46,8 @@
     <Compile Include="PrintValues.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueueTest1.cs" />
+    <Compile Include="QueueTest2.cs" />
     <Compile Include="StackTest1.cs" />
     <Compile Include="StackTest2.cs" />
   </ItemGroup>
